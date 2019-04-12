@@ -53,9 +53,9 @@ JavaScript Basics Quiz
 
 ```js
 if (5 > 0) {
-  return true;
+  true;
 } else {
-  return false;
+  false;
 }
 ```
 
@@ -65,9 +65,9 @@ if (5 > 0) {
 
 ```js
 if !(10 > 5) {
-  return true;
+  true;
 } else {
-  return false;
+  false;
 }
 ```
 
@@ -78,9 +78,9 @@ if !(10 > 5) {
 ```js
 let str = "hello"
 if (!!str) {
-  return true;
+  true;
 } else {
-  return false;
+  false;
 }
 ```
 
@@ -90,9 +90,9 @@ if (!!str) {
 
 ```js
 if (NaN) {
-  return true;
+  true;
 } else {
-  return false;
+  false;
 }
 ```
 
@@ -102,9 +102,9 @@ if (NaN) {
 
 ```js
 if (typeof NaN) {
-  return true;
+  true;
 } else {
-  return false;
+  false;
 }
 ```
 
